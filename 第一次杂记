@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>test</title>
+    </head>
+    <body style="background-color: brown">
+        <b>加粗b 记不住就很捞</b>
+        <br/>
+        <big>大字显示big</big>
+        <br/>
+        <em>加重语气em,和i斜体相似</em>
+        <br/><i>斜体i</i>
+        <br/><small>小写small</small>
+        <br/><strong>大且粗，和加粗相似</strong>
+        <p>对照下标字<sub>对照下标字</sub></p>
+        <p>对照上标字<sup>对照上标字</sup></p>
+        <ins>这个是下划线？</ins>
+        <br/><del>这个是删除线</del>
+        <br/>
+        <code> int i = 3;</code>
+        <pre>
+            int i = 3;
+            double d = 3.0;
+        </pre>
+        <var>
+            int i = 3;
+            double d = 3.0;
+        </var>
+        <br/>
+        <abbr title="中华人民共和国" style="color: red">中国</abbr>
+        <br/>
+        <acronym title="HuaiNanNormalUniversity">HNNU</acronym>
+        <br/>
+        <address>点击<a href="mailto:ppq.word@qq.com">邮箱</a></address>
+        
+    </body>
+</html>
